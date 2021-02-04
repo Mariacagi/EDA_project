@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Big files 
+en.openfoodfacts.org.products.tsv
+amazon_data.csv
+amazon_data.csv.zip
+vgsalesGlobale.csv
+Proyecto_individual_María_Cagigas.zip
+
+# ignore files.zip
+git archive HEAD -o ${PWD##*/}.zip
+
 # C extensions
 *.so
 
